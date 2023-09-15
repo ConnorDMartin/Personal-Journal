@@ -10,6 +10,7 @@
 #define RESET "\x1B[0m"
 #define BOLD "\x1B[1m"
 #define MAX_TITLE_LENGTH 100
+#define MAX_WORD_LENGTH 100
 
 FILE *fp1, *fp2, *fp;
 
